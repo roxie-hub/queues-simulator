@@ -1,0 +1,244 @@
+Time: 0
+Clients: (4,6,2); (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 1
+Clients: (4,6,2); (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 2
+Clients: (4,6,2); (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 3
+Clients: (4,6,2); (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 4
+Clients: (4,6,2); (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 5
+Clients: (4,6,2); (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 6
+Clients: (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :(4,6,2);
+Queue2 :Closed
+Time: 7
+Clients: (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :(4,6,1);
+Queue2 :Closed
+Time: 8
+Clients: (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 9
+Clients: (3,10,2); (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 10
+Clients: (2,17,4); (1,30,3); 
+Queue1 :(3,10,2);
+Queue2 :Closed
+Time: 11
+Clients: (2,17,4); (1,30,3); 
+Queue1 :(3,10,1);
+Queue2 :Closed
+Time: 12
+Clients: (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 13
+Clients: (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 14
+Clients: (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 15
+Clients: (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 16
+Clients: (2,17,4); (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 17
+Clients: (1,30,3); 
+Queue1 :(2,17,4);
+Queue2 :Closed
+Time: 18
+Clients: (1,30,3); 
+Queue1 :(2,17,3);
+Queue2 :Closed
+Time: 19
+Clients: (1,30,3); 
+Queue1 :(2,17,2);
+Queue2 :Closed
+Time: 20
+Clients: (1,30,3); 
+Queue1 :(2,17,1);
+Queue2 :Closed
+Time: 21
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 22
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 23
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 24
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 25
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 26
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 27
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 28
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 29
+Clients: (1,30,3); 
+Queue1 :Closed
+Queue2 :Closed
+Time: 30
+Clients: 
+Queue1 :(1,30,3);
+Queue2 :Closed
+Time: 31
+Clients: 
+Queue1 :(1,30,2);
+Queue2 :Closed
+Time: 32
+Clients: 
+Queue1 :(1,30,1);
+Queue2 :Closed
+Time: 33
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 34
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 35
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 36
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 37
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 38
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 39
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 40
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 41
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 42
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 43
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 44
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 45
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 46
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 47
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 48
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 49
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 50
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 51
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 52
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 53
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 54
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 55
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 56
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 57
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 58
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 59
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
+Time: 60
+Clients: 
+Queue1 :Closed
+Queue2 :Closed
